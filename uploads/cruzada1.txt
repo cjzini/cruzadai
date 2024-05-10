@@ -1,0 +1,19 @@
+BIOLOGIA:Ciência que estuda a vida
+VIDA:Conjunto de características que resistem à morte
+CELULAR:Teoria que determina que todos os seres vivos são formados por células
+PROCARIONTE:Célula desprovida de compartimentos membranosos
+EUCARIONTE:Célula repleta de compartimentos membranosos, incluindo núcleo
+METABOLISMO:Conjunto de reações que ocorrem no interior da célula
+ANABOLISMO:Reações de construção em um organismo
+CATABOLISMO:Reações de quebra em um organismo
+AUTÓTROFO:Ser vivo capaz de sintetizar seus próprios compostos orgânicos
+HETERÓTROFO:Ser vivo que se nutre de compostos orgânicos prontos
+AUTOPOESE:Capacidade de autoconstrução do organismo
+HIPERPLASIA:Crescimento do organismo pelo aumento no número de células
+HIPERTROFIA:Crescimento do organismo pelo aumento do volume das células
+REPRODUÇÃO:Processo onde seres vivos produzem descendentes
+ASSEXUADA:Forma de reprodução onde não há variabilidade genética entre os indivíduos
+SEXUADA:Forma de reprodução que envolve variabilidade genética entre os indivíduos
+HEREDITARIEDADE:Capacidade de transmissão de características genéticas de pais para filhos
+MUTAÇÃO:Alteração no material genético do indivíduo
+EVOLUÇÃO:Mudança da população ao longo do tempo
